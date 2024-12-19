@@ -1,0 +1,6 @@
+print("Hello i'm Leo!")
+print(5)
+print("Nice to meet you. \n Good Evening!")
+print("I love math 2.5 + 2.5 =", 5)
+print("And i am a coder", end="!")
+print("Im learning Python!")
